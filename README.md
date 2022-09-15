@@ -28,4 +28,4 @@ Dissenya una classe que mostri en pantalla el preu de diversos articles. Ja que 
 
 (!) _Important_. Assegura't d'afegir-li com a Injecció de Dependència una classe Convertidor de Moneda que efectuï la correcció del preu en funció del canvi de divisa.
 
-## util_links
+## Util_links
