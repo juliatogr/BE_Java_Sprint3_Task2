@@ -29,3 +29,11 @@ Dissenya una classe que mostri en pantalla el preu de diversos articles. Ja que 
 (!) _Important_. Assegura't d'afegir-li com a Injecció de Dependència una classe Convertidor de Moneda que efectuï la correcció del preu en funció del canvi de divisa.
 
 ## Util_links
+
+- *Maven Tutorial for Beginners:* https://www.simplilearn.com/tutorials/maven-tutorial/
+
+- *address-formater-java Maven package from Placemarkt:* https://github.com/placemarkt/address-formatter-java
+
+- *libphonenumber library from Google:* https://github.com/google/libphonenumber
+
+- *Using libphonenumber to Validate Phone Numbers:* https://www.baeldung.com/java-libphonenumber
