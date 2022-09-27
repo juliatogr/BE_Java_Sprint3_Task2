@@ -31,9 +31,3 @@ Dissenya una classe que mostri en pantalla el preu de diversos articles. Ja que 
 ## Util_links
 
 - *Maven Tutorial for Beginners:* https://www.simplilearn.com/tutorials/maven-tutorial/
-
-- *address-formater-java Maven package from Placemarkt:* https://github.com/placemarkt/address-formatter-java
-
-- *libphonenumber library from Google:* https://github.com/google/libphonenumber
-
-- *Using libphonenumber to Validate Phone Numbers:* https://www.baeldung.com/java-libphonenumber
